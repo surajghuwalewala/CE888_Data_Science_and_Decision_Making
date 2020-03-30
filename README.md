@@ -6,7 +6,7 @@
 ___
 
 ### Update 30th March 2020:
-All lab files have been added and updated.
+All lab files have been added and updated in their respective folders
 
 #### Lab 1:
 - Introduction to Numerical Computing with Numpy and Matplotlib
