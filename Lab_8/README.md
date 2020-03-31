@@ -1,1 +1,3 @@
-Here are are going to do transfer learning
+The lab exercises are in the files.
+- 1_Exercise-Food-11.ipynb
+- 2_Exercise-Food-11.ipynb
