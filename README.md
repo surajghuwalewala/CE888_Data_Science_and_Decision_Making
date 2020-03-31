@@ -5,7 +5,7 @@
 
 ___
 
-### Update 30th March 2020:
+### Update - 30th March 2020:
 All lab files have been added and updated in their respective folders
 
 #### Lab 1:
@@ -50,12 +50,12 @@ All lab files have been added and updated in their respective folders
 ___
 
 
-### Update 19th Feb 2020:
+### Update - 19th Feb 2020:
 The files for Assignment 1 - Project proposal has been added to the `assignment` folder.
 
 ___
 
-### Update 20th Jan 2020:
+### Update - 20th Jan 2020:
 This ReadMe file will be updated in the near future upon consultation with the module guides. 
 
 
