@@ -1,5 +1,3 @@
-# CE888_2020
-
 ## Lab 3: Data Exploration 
 
 **Task 1:** Check the counts of each wine class
@@ -13,3 +11,7 @@
 **Task 5:** Apply PCA with n_components=2 on X_train_std wine data and transform test data accordingly
 
 **Task 6:** Apply Logistic Regression on training features and predict test features
+
+
+The python notebook contains implementation of these tasks.
+
