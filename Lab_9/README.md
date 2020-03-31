@@ -1,3 +1,6 @@
-# Lab 9 - Variational Auto Encoders (VAE) and Generative Adversarial Networks (GAN)
+# Lab 9 
 
-These two files contain lab exercises.
+- Variational Auto Encoders (VAE)
+- Generative Adversarial Networks (GAN)
+
+These two files in this folder are lab exercises.
